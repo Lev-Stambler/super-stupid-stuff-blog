@@ -13,6 +13,9 @@
 </script>
 
 <style>
+:global(a) {
+  text-decoration: underline;
+}
 
 </style>
 
@@ -25,6 +28,6 @@
 </div>
 <div class="body-wrapper">
   <div class="body">
-    {article.body}
+    {@html article.body}
   </div>
 </div>
