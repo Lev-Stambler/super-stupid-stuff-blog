@@ -20,7 +20,7 @@
 </style>
 
 <div class="social">
-  <a href="https://twitter.com/jpblancodb" target="_blank">
+  <!-- <a href="https://twitter.com/jpblancodb" target="_blank">
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 612 612"
@@ -43,7 +43,7 @@
         230.947 0 357.187-191.29 357.187-357.188l-.42-16.253C573.87 163.525
         595.21 141.42 612 116.257z" />
     </svg>
-  </a>
+  </a> -->
   <a href="https://github.com/lev-stambler" target="_blank">
     <svg
       xmlns="http://www.w3.org/2000/svg"
