@@ -16,6 +16,9 @@
 :global(a) {
   text-decoration: underline;
 }
+:global(img) {
+  max-width: 100%;
+}
 
 </style>
 

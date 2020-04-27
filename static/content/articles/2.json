@@ -1,0 +1,9 @@
+{
+  "title": "Memes ft. a Webscraper",
+  "date_published": "4/19/2020",
+  "tag_list": ["meme", "automatic", "web scrapers"],
+  "short": "I made a meme generator which uses scraped jokes and meme templates",
+  "externalLink": "https://meme-of-your-day.neocities.org/",
+  "body": "<p>Memes. They are on everyone&#39;s mind. As a coping mechanism, they are great. And, as a way to procrastinate, they are even better. But, what about a meme generator?</p>\n<p>Well, I can now say that creating one is a big waste of time. But, it is also some of the best way to spend your time.</p>\n<p>Enter <strong>Meme-of-Your-Day</strong></p>\n<h3 id=\"lets-use-randomness-\">Lets use randomness!</h3>\n<p><img src=\"/content/content-pictures/2-a.png\" alt=\"The site\"></p>\n<p>The site randomly chooses a joke from thousands of posts on Reddit. It then randomly chooses a meme template with which to match. No AI, no machine learning (although that may be a future project). There have been some good memes from it, some not so great.</p>\n<p>Peep my favorite one below:\n<img src=\"/content/content-pictures/2-b.png\" alt=\"Best meme\"></p>\n<p><a href=\"https://meme-of-your-day.neocities.org/\">Check out Meme of Your Day</a></p>\n",
+  "slug": 2
+}

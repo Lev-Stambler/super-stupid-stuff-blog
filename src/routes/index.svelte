@@ -2,7 +2,10 @@
   export async function preload() {
     const res = await this.fetch(`/content/articles.json`);
     // console.log(await res.json());
-    return { articles: await res.json() };
+    return { articles: (await res.json()).sort((s1, s2) => {
+      console.log(s1.slug, s2.slug)
+      return s2.slug - s1.slug
+    }) };
   }
 </script>
 

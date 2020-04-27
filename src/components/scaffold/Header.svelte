@@ -37,7 +37,7 @@
     border: 4px solid var(--main-accent-fg-color);
   }
   .small .profile {
-    flex-direction: row!important;
+    flex-direction: row !important;
   }
   .small .profile-image {
     margin-right: 20px;
@@ -74,18 +74,23 @@
       font-size: 1rem;
     }
   }
+  .profile-description a {
+    text-decoration: none;
+  }
 </style>
 
 <header class={small ? 'small' : ''}>
   <div class="flex-container">
     <div class="profile-description ">
-      <div class="profile">
-        <img
-          class="profile-image"
-          src="pictures/profile.jpg"
-          alt="jpblancodb profile" />
-        <h1>Lev Stambler</h1>
-      </div>
+      <a href="/">
+        <div class="profile">
+          <img
+            class="profile-image"
+            src="pictures/profile.jpg"
+            alt="jpblancodb profile" />
+          <h1>Lev Stambler</h1>
+        </div>
+      </a>
       {#if !small}
         <span class="extra-profile-info">
           Pretending to be a software developer since 2001
