@@ -1,7 +1,7 @@
 [
   {
     "title": "Shut Up -- Quarantine Edition",
-    "date_published": "4/27/2020",
+    "date_published": "4/19/2020",
     "tag_list": ["peace", "tranquility", "no-sarcasm-detected-here"],
     "short": "I was bored. So I made a web app which yells at people",
     "externalLink": "https://shut-up-covid.neocities.org/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Memes ft. a Webscraper",
-    "date_published": "4/19/2020",
+    "date_published": "4/27/2020",
     "tag_list": ["meme", "automatic", "web scrapers"],
     "short": "I made a meme generator which uses scraped jokes and meme templates",
     "externalLink": "https://meme-of-your-day.neocities.org/",
